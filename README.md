@@ -17,7 +17,7 @@ Grab it from npm and use with your favorite bundler:
 npm install panzoom --save
 ```
 
-Or download from CDN:
+Or download from CDN: 
 
 ``` html
 <script src='https://unpkg.com/panzoom@8.7.3/dist/panzoom.min.js'></script>
